@@ -1,0 +1,3 @@
+function strlen(str){
+  console.log(str.length);
+}
